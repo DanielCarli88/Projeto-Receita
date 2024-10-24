@@ -35,13 +35,3 @@ Quer ajudar a melhorar essa aplicação? Fique à vontade para abrir um *pull re
 **Vamos cozinhar juntos!** 👨‍🍳👩‍🍳
 
 **#culinaria #receitas #javascript #html #css #github**
-
-**Observação:** 
-
-* **Substitua "seu-usuario" pelo seu nome de usuário no GitHub.**
-* **Adicione mais detalhes sobre o projeto, como as fontes das receitas, se houver.**
-* **Utilize imagens e gifs para deixar o README mais atrativo.**
-
-**Com esse README, você terá um guia completo e divertido para apresentar sua aplicação no GitHub!** 
-
-**Gostaria de adicionar mais alguma coisa?**
